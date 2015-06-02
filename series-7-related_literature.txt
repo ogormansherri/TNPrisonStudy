@@ -1,0 +1,22 @@
+Bibliography
+Annual Survey of Jails: Jurisdiction-Level Data Series
+
+This bibliography includes published and unpublished works that are
+related to ICPSR series 7. It includes works that are based on
+primary or secondary analysis of the data, or which describe or critique
+those data or the collection methodology. This list represents all items
+known to ICPSR as of 2007-12-07.
+
+If you publish a work or know of other works that are based on these data,
+please send the complete citation and name of the ICPSR series used to:
+bibliography@icpsr.umich.edu.
+
+
+1. Harrison, Paige M.; Karberg, Jennifer C., "Prison and Jail Inmates at
+Midyear 2002." Bulletin. NCJ 198877, Washington, DC: United States
+Department of Justice, Bureau of Justice Statistics, Apr 2003.
+Abstract: http://www.ojp.usdoj.gov/bjs/abstract/pjim02.htm
+Full text: http://www.ojp.usdoj.gov/bjs/pub/ascii/pjim02.txt
+Full text PDF: http://www.ojp.usdoj.gov/bjs/pub/pdf/pjim02.pdf
+Presents data on prison and jail inmates, collected from National Prisoner
+Statistics counts and the Annual Survey of Jails in 2002.

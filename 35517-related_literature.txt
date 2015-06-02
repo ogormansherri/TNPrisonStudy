@@ -1,0 +1,56 @@
+Bibliography
+Annual Survey of Jails, 2013
+
+This bibliography includes published and unpublished works that are related 
+to ICPSR study 35517. It includes works that are based on primary
+or secondary analysis of the data, or which describe or critique those
+data or the collection methodology. This list represents all items known
+to ICPSR as of 2015-06-02.
+
+If you publish a work or know of other works that are based on these data,
+please send the complete citation and name of the ICPSR study used to:
+bibliography@icpsr.umich.edu.
+
+
+1. Glaze, Lauren E.; Kaeble, Danielle, "Correctional Populations in the
+United States, 2013." Bulletin. NCJ 248479, Washington, DC: United States
+Department of Justice, Office of Justice Programs, Bureau of Justice
+Statistics, Dec 2014.
+Abstract: http://www.bjs.gov/index.cfm?ty=pbdetail&iid=5177&utm_source=juststats&utm_medium=email&utm_content=Correctional%20Populations%20in%20the%20United%20States%202013&utm_campaign=juststats-121914
+Full text: http://www.bjs.gov/content/pub/ascii/cpus13.txt
+Full text PDF: http://www.bjs.gov/content/pub/pdf/cpus13.pdf
+Presents statistics on offenders supervised by adult correctional systems
+in the United States at yearend 2013, including offenders supervised in the
+community on probation or parole and those incarcerated in prison or local
+jail. The report provides the size and change in the total correctional
+population during 2013. It details the slowing rate of decline in the
+population since 2010 and the downward trend in the correctional
+supervision rate since 2007. It also examines the impact of changes in the
+community supervision and incarcerated populations on the total
+correctional population in recent years. Findings cover the size of the
+male and female correctional populations and compare the rates of change in
+the populations by correctional status since 2000. Appendix tables provide
+information on other correctional populations, including prisoners under
+military jurisdiction, inmates held by correctional authorities in the U.S.
+territories and commonwealths, and jail inmates held in Indian country
+facilities, and estimates of the total correctional population by
+jurisdiction and correctional status. Findings are based on data from
+several BJS correctional data collections.
+
+2. Minton, Todd D.; Golinelli, Daniela, "Jail Inmates at Midyear 2013 -
+Statistical Tables." NCJ 245350, Washington, DC: United States Department
+of Justice, Office of Justice Programs, Bureau of Justice Statistics, May
+2014.
+Abstract: http://www.bjs.gov/index.cfm?ty=pbdetail&iid=4988
+Full text: http://www.bjs.gov/content/pub/ascii/jim13st.txt
+Full text PDF: http://www.bjs.gov/content/pub/pdf/jim13st.pdf
+Presents estimates of the number of jail inmates at midyear 2013, by sex,
+race, Hispanic origin, and conviction status. It also provides estimates of
+year-to-year changes between midyear 2000 and midyear 2013 in the number of
+inmates held, average daily population, rated capacity of local jails, and
+percent of capacity occupied. More detailed breakouts by jurisdiction size
+track changes between 2012 and 2013 in the number of inmates, number of
+admissions, and weekly turnover rate. The report examines the effect of
+California's Public Safety Realignment on state-level and national
+estimates of the confined jail population. Estimates and standard errors
+are based on data collected from the Annual Survey of Jails.
